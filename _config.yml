@@ -4,6 +4,6 @@ description: First draft of our website
 show_downloads: True
 navigation:
   - title: Home
-    url: /
+    url: /ada-website
   - title: Example
     url: example
